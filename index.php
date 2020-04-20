@@ -229,7 +229,7 @@
                         <h3 class="text-center titulosBrancos">Contato</h3>
                        <a  href="https://github.com/ErnaniSilveira16"><i class="fab fa-github aumentoIcone"></i></a></h4>
                        <a  href="https://www.linkedin.com/in/ernani-silveira-6a4647161"><i  class="fab fa-linkedin aumentoIcone"></i></a>
-                       <a  href="https://mail.google.com/mail/u/1/?tab=wm&ogbl#inbox"><i  class="fas fa-envelope-open-text aumentoIcone"></i></a>
+                       <a  href="ernanisilveira19@gmail.com"><i  class="fas fa-envelope-open-text aumentoIcone"></i></a>
                     </div>
                 </section>
                 <!-- footer-->
