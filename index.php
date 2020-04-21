@@ -145,6 +145,9 @@
                         </div>
                     </div>
                 </div>
+    </div>
+    </div>
+    </div>
                 <div class="col-md-4">
                     <div class="card mb-4 box-shadow">
                         <img class="card-img-top"
@@ -185,8 +188,8 @@
                             </ul>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
-                                    <a href="www.google.com.br"> <button type="button"
-                                            class="btn btn-sm btn-outline-success ">Ver Projeto</button></a>
+                                    <a href="www.google.com.br"> <center><button type="button"
+                                            class="btn btn-sm btn-outline-success ">Ver Projeto</button></center></a>
                                     
                                 </div>
                             </div>
