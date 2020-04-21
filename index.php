@@ -20,9 +20,9 @@
     <script src="https://kit.fontawesome.com/d19b8e1807.js" crossorigin="anonymous"></script>
     <style>
         .fotoPerfil {
-            height: auto;
+            height: 90px;
             width: auto;
-            max-width: auto;
+            max-width: 90px;
             border-radius: 50%;
         }
 
@@ -42,16 +42,7 @@
         .incones {
             padding-left: 5px;
         }
-        .botao {
-            width: 250px;
-            height: 50px;
-            margin: 0 auto;
-            padding: 0;
-            display: inline-block;
-            line-height: 50px;
-            text-align: center;
-        }
-
+        
         .titulosBrancos {
             text-decoration: underline;
             text-underline-position: below;
@@ -153,7 +144,7 @@
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
                                     <a href="https://github.com/ErnaniSilveira16/JavaScript"> <button type="button"
-                                            class="btn btn-sm btn-outline-success botao">Ver Projeto</button></a>
+                                            class="btn btn-sm btn-outline-success ">Ver Projeto</button></a>
                                     
                                 </div>
                             </div>
@@ -177,7 +168,7 @@
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
                                     <a href="www.google.com.br"> <button type="button"
-                                            class="btn btn-sm btn-outline-success botao">Ver Projeto</button></a>
+                                            class="btn btn-sm btn-outline-success ">Ver Projeto</button></a>
                                     
                                 </div>
                             </div>
@@ -201,7 +192,7 @@
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
                                     <a href="www.google.com.br"> <button type="button"
-                                            class="btn btn-sm btn-outline-success botao">Ver Projeto</button></a>
+                                            class="btn btn-sm btn-outline-success ">Ver Projeto</button></a>
                                     
                                 </div>
                             </div>
