@@ -20,9 +20,9 @@
     <script src="https://kit.fontawesome.com/d19b8e1807.js" crossorigin="anonymous"></script>
     <style>
         .fotoPerfil {
-            height: 50px;
+            height: 80px;
             width: auto;
-            max-width: 50px;
+            max-width: 80px;
             border-radius: 50%;
         }
 
