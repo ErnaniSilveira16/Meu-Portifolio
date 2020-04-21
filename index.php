@@ -63,6 +63,9 @@
         .contatoWhatsapp{
             color: green;
         }
+        .botaoCentralizado{
+            text-align: center;
+        }
 
         .textoBranco {
             color: white !important;
@@ -144,7 +147,7 @@
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
                                     <a href="https://github.com/ErnaniSilveira16/JavaScript"> <button type="button"
-                                            class="btn btn-sm btn-outline-success text-center">Ver Projeto</button></a>
+                                            class="btn btn-sm btn-outline-success botaoCentralizado">Ver Projeto</button></a>
                                     
                                 </div>
                             </div>
@@ -168,7 +171,7 @@
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
                                     <a href="www.google.com.br"> <button type="button"
-                                            class="btn btn-sm btn-outline-success ml-6">Ver Projeto</button></a>
+                                            class="btn btn-sm btn-outline-success botaoCentralizado">Ver Projeto</button></a>
                                     
                                 </div>
                             </div>
@@ -192,7 +195,7 @@
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
                                     <a href="www.google.com.br"> <button type="button"
-                                            class="btn btn-sm btn-outline-success ml-6">Ver Projeto</button></a>
+                                            class="btn btn-sm btn-outline-success botaoCentralizado">Ver Projeto</button></a>
                                     
                                 </div>
                             </div>
