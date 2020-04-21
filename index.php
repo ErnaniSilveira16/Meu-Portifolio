@@ -20,9 +20,9 @@
     <script src="https://kit.fontawesome.com/d19b8e1807.js" crossorigin="anonymous"></script>
     <style>
         .fotoPerfil {
-            height: 100px;
+            height: 100vh;
             width: auto;
-            max-width: 100px;
+            max-width: 100vw;
             border-radius: 50%;
         }
 
@@ -63,12 +63,7 @@
         .contatoWhatsapp{
             color: green;
         }
-        .botao {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-        }
-
+        
 
         .textoBranco {
             color: white !important;
@@ -198,7 +193,7 @@
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
                                     <a href="www.google.com.br"> <button type="button"
-                                            class="btn btn-sm btn-outline-success botao">Ver Projeto</button></a>
+                                            class="btn btn-sm btn-outline-success ">Ver Projeto</button></a>
                                     
                                 </div>
                             </div>
