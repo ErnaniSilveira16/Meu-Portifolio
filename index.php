@@ -20,9 +20,9 @@
     <script src="https://kit.fontawesome.com/d19b8e1807.js" crossorigin="anonymous"></script>
     <style>
         .fotoPerfil {
-            height: 50Vh;
+            height: 50px;
             width: auto;
-            max-width: 50Vw;
+            max-width: 50px;
             border-radius: 50%;
         }
 
@@ -62,9 +62,6 @@
         }
         .contatoWhatsapp{
             color: green;
-        }
-        .botaoCentralizado{
-            text-align: center;
         }
 
         .textoBranco {
@@ -147,7 +144,7 @@
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
                                     <a href="https://github.com/ErnaniSilveira16/JavaScript"> <button type="button"
-                                            class="btn btn-sm btn-outline-success botaoCentralizado">Ver Projeto</button></a>
+                                            class="btn btn-sm btn-outline-success">Ver Projeto</button></a>
                                     
                                 </div>
                             </div>
@@ -171,7 +168,7 @@
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
                                     <a href="www.google.com.br"> <button type="button"
-                                            class="btn btn-sm btn-outline-success botaoCentralizado">Ver Projeto</button></a>
+                                            class="btn btn-sm btn-outline-success">Ver Projeto</button></a>
                                     
                                 </div>
                             </div>
@@ -195,7 +192,7 @@
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
                                     <a href="www.google.com.br"> <button type="button"
-                                            class="btn btn-sm btn-outline-success botaoCentralizado">Ver Projeto</button></a>
+                                            class="btn btn-sm btn-outline-success">Ver Projeto</button></a>
                                     
                                 </div>
                             </div>
