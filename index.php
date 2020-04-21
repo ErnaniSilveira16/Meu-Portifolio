@@ -119,7 +119,7 @@
             </p>
             <a href="https://github.com/ErnaniSilveira16"><i class="fab fa-github"></i></a>
             <a href="https://www.linkedin.com/in/ernani-silveira-6a4647161"><i class="fab fa-linkedin"></i></a>
-            <a  href="https://mail.google.com/mail/u/1/?tab=wm&ogbl#inbox"><i  class="fas fa-envelope-open-text "></i></a>
+            <a  href="mailto:ernanisilveira19@gmail.com"><i  class="fas fa-envelope-open-text "></i></a>
         </div>
     </section>
     <div class="album py-5 bg-light" id="Projetos">
