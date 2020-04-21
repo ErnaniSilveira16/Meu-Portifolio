@@ -113,7 +113,7 @@
     </nav>
     <section class="jumbotron text-center corPrimaria">
         <div class="container">
-            <img-responsive class="fotoPerfil" src="afropython.jpeg" alt="">
+            <img-responsive class="FotoPerfil" src="afropython.jpeg" alt="">
             <h1 class="jumbotron-heading  ">Ernani Silveira</h1>
             <p class="lead  textoBranco">Estudante de ciência da computação</p>
             <p>
