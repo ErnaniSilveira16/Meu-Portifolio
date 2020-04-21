@@ -63,6 +63,12 @@
         .contatoWhatsapp{
             color: green;
         }
+        .botao {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
 
         .textoBranco {
             color: white !important;
@@ -134,7 +140,7 @@
                             alt="Miniatura [100% x225]" style="height: 225px; width: 100%; display: block;" src="js.png"
                             data-holder-rendered="true">
                         <div class="card-body">
-                            <p class="card-text">Curso de JavaScript na skylab</p>
+                            <p class="card-text text-center"> Curso de JavaScript na skylab</p>
                             <ul>
                                 <li>JavaScript</li>
                                 <li>CSS</li>
@@ -158,7 +164,7 @@
                             alt="Miniatura [100% x225]" style="height: 225px; width: 100%; display: block;"
                             src="Testes.png" data-holder-rendered="true">
                         <div class="card-body">
-                            <p class="card-text">Em Breve curso de Testes</p>
+                            <p class="card-text text-center">Em Breve curso de Testes</p>
                             <ul>
                                 <li>Conceito de Testes</li>
                                 <li>TDD com JavaScript</li>
@@ -182,7 +188,7 @@
                             alt="Miniatura [100% x225]" style="height: 225px; width: 100%; display: block;"
                             src="CICD.jpg" data-holder-rendered="true">
                         <div class="card-body">
-                            <p class="card-text">Embreve curso de CI/CD</p>
+                            <p class="card-text text-center">Embreve curso de CI/CD</p>
                             <ul>
                                 <li>CI</li>
                                 <li>CD</li>
@@ -192,7 +198,7 @@
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
                                     <a href="www.google.com.br"> <button type="button"
-                                            class="btn btn-sm btn-outline-success ">Ver Projeto</button></a>
+                                            class="btn btn-sm btn-outline-success botao">Ver Projeto</button></a>
                                     
                                 </div>
                             </div>
