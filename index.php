@@ -18,14 +18,9 @@
         integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
         crossorigin="anonymous"></script>
     <script src="https://kit.fontawesome.com/d19b8e1807.js" crossorigin="anonymous"></script>
+    </head>
     <style>
-        .fotoPerfil {
-            height: 100vh;
-            width: auto;
-            max-width: 100vw;
-            border-radius: 50%;
-        }
-
+      
         .corPrimaria {
             background-color: burlywood;
         }
@@ -81,8 +76,6 @@
             scroll-behavior: smooth;
         }
     </style>
-</head>
-
 <body>
     <nav class="corSecundaria navbar navbar-expand-lg navbar-light">
         <a class="navbar-brand textoBranco" href="#">Ernani Silveira</a>
@@ -112,7 +105,7 @@
     </nav>
     <section class="jumbotron text-center corPrimaria">
         <div class="container">
-            <img class="fotoPerfil" src="afropython.jpeg" alt="">
+            <img-responsive class="" src="afropython.jpeg" alt="">
             <h1 class="jumbotron-heading  ">Ernani Silveira</h1>
             <p class="lead  textoBranco">Estudante de ciência da computação</p>
             <p>
@@ -144,8 +137,8 @@
                             </ul>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
-                                    <a href="https://github.com/ErnaniSilveira16/JavaScript"> <button type="button"
-                                            class="btn btn-sm btn-outline-success ">Ver Projeto</button></a>
+                                    <a href="https://github.com/ErnaniSilveira16/JavaScript"><center> <button type="button"
+                                            class="btn btn-sm btn-outline-success ">Ver Projeto</button></center></a>
                                     
                                 </div>
                             </div>
