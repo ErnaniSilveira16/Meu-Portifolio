@@ -42,6 +42,12 @@
         .incones {
             padding-left: 5px;
         }
+        .botao {
+        width: 250px;
+        height: 50px;
+        margin: 0 auto;
+        vertical-align: middle;
+        }
 
         .titulosBrancos {
             text-decoration: underline;
@@ -144,7 +150,7 @@
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
                                     <a href="https://github.com/ErnaniSilveira16/JavaScript"> <button type="button"
-                                            class="btn btn-sm btn-outline-success">Ver Projeto</button></a>
+                                            class="btn btn-sm btn-outline-success botao">Ver Projeto</button></a>
                                     
                                 </div>
                             </div>
@@ -168,7 +174,7 @@
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
                                     <a href="www.google.com.br"> <button type="button"
-                                            class="btn btn-sm btn-outline-success">Ver Projeto</button></a>
+                                            class="btn btn-sm btn-outline-success botao">Ver Projeto</button></a>
                                     
                                 </div>
                             </div>
@@ -192,7 +198,7 @@
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
                                     <a href="www.google.com.br"> <button type="button"
-                                            class="btn btn-sm btn-outline-success">Ver Projeto</button></a>
+                                            class="btn btn-sm btn-outline-success botao">Ver Projeto</button></a>
                                     
                                 </div>
                             </div>
