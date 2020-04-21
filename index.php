@@ -20,9 +20,9 @@
     <script src="https://kit.fontawesome.com/d19b8e1807.js" crossorigin="anonymous"></script>
     <style>
         .fotoPerfil {
-            height: 100%;
+            height: 50 Vh;
             width: auto;
-            max-width: 100%;
+            max-width: 50 Vw;
             border-radius: 50%;
         }
 
@@ -144,7 +144,7 @@
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
                                     <a href="https://github.com/ErnaniSilveira16/JavaScript"> <button type="button"
-                                            class="btn btn-sm btn-outline-success">Ver Projeto</button></a>
+                                            class="btn btn-sm btn-outline-success ml-5">Ver Projeto</button></a>
                                     
                                 </div>
                             </div>
@@ -168,7 +168,7 @@
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
                                     <a href="www.google.com.br"> <button type="button"
-                                            class="btn btn-sm btn-outline-success">Ver Projeto</button></a>
+                                            class="btn btn-sm btn-outline-success ml-5">Ver Projeto</button></a>
                                     
                                 </div>
                             </div>
@@ -192,7 +192,7 @@
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
                                     <a href="www.google.com.br"> <button type="button"
-                                            class="btn btn-sm btn-outline-success">Ver Projeto</button></a>
+                                            class="btn btn-sm btn-outline-success ml-5">Ver Projeto</button></a>
                                     
                                 </div>
                             </div>
