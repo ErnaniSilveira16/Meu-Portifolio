@@ -18,9 +18,17 @@
         integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
         crossorigin="anonymous"></script>
     <script src="https://kit.fontawesome.com/d19b8e1807.js" crossorigin="anonymous"></script>
-    </head>
+</head>
+
     <style>
-      
+        .FotoPerfil{
+            height:100px;
+            width:auto;
+            max-width:100px;
+            border-radius:50%;
+        }
+
+
         .corPrimaria {
             background-color: burlywood;
         }
@@ -105,7 +113,7 @@
     </nav>
     <section class="jumbotron text-center corPrimaria">
         <div class="container">
-            <img-responsive class="" src="afropython.jpeg" alt="">
+            <img-responsive class="fotoPerfil" src="afropython.jpeg" alt="">
             <h1 class="jumbotron-heading  ">Ernani Silveira</h1>
             <p class="lead  textoBranco">Estudante de ciência da computação</p>
             <p>
@@ -145,9 +153,6 @@
                         </div>
                     </div>
                 </div>
-    </div>
-    </div>
-    </div>
                 <div class="col-md-4">
                     <div class="card mb-4 box-shadow">
                         <img class="card-img-top"
@@ -188,8 +193,8 @@
                             </ul>
                             <div class="d-flex justify-content-between align-items-center">
                                 <div class="btn-group">
-                                    <a href="www.google.com.br"> <center><button type="button"
-                                            class="btn btn-sm btn-outline-success ">Ver Projeto</button></center></a>
+                                    <a href="www.google.com.br"> <button type="button"
+                                            class="btn btn-sm btn-outline-success ">Ver Projeto</button></a>
                                     
                                 </div>
                             </div>
