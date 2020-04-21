@@ -43,10 +43,13 @@
             padding-left: 5px;
         }
         .botao {
-        width: 250px;
-        height: 50px;
-        margin: 0 auto;
-        vertical-align: middle;
+            width: 250px;
+            height: 50px;
+            margin: 0 auto;
+            padding: 0;
+            display: inline-block;
+            line-height: 50px;
+            text-align: center;
         }
 
         .titulosBrancos {
