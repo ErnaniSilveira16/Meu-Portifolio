@@ -18,72 +18,10 @@
         integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
         crossorigin="anonymous"></script>
     <script src="https://kit.fontawesome.com/d19b8e1807.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="portifolio.css">
 </head>
 
-    <style>
-        .FotoPerfil{
-            height:100px;
-            width:auto;
-            max-width:100px;
-            border-radius:50%;
-        }
-
-
-        .corPrimaria {
-            background-color: burlywood;
-        }
-
-        .corSecundaria {
-            background-color: #2c3e50;
-        }
-
-        p {
-            font-family: lato, 'Helvetica Neue', Arial, Helvetica, sans-serif;
-            color: black !important;
-        }
-
-        .incones {
-            padding-left: 5px;
-        }
-        
-        .titulosBrancos {
-            text-decoration: underline;
-            text-underline-position: below;
-            padding-bottom: 20px;
-            text-transform: uppercase;
-            font-weight: 700;
-            color: white;
-        }
-
-        .titulosVerde {
-            text-decoration: underline;
-            text-underline-position: below;
-            padding-bottom: 20px;
-            text-transform: uppercase;
-            font-weight: 700;
-            color: #18bc9c;
-        }
-        .contatoWhatsapp{
-            color: green;
-        }
-        
-
-        .textoBranco {
-            color: white !important;
-        }
-        .aumentoIcone {
-        font-size:20px;
-        text-align: center;
-        }
-
-        .jumbotron {
-            margin-bottom: 0px;
-        }
-
-        html {
-            scroll-behavior: smooth;
-        }
-    </style>
+    
 <body>
     <nav class="corSecundaria navbar navbar-expand-lg navbar-light">
         <a class="navbar-brand textoBranco" href="#">Ernani Silveira</a>
@@ -207,9 +145,8 @@
                         <h2 class="jumbotron-heading titulosBrancos">Sobre Mim</h2>
                         <p class="lead">Olá! Meu nome é Ernani, atualmente graduando do terceiro semestre de Ciência da
                             Computação
-                            na faculdade São Francisco de Assis - UNIFIN. Com um "mindset" progressista mergulho no
-                            mundo do T.I,
-                            conhecendo novas linguagens de programação, estudando inglês, buscando conhecimento e
+                            na faculdade São Francisco de Assis - UNIFIN, desbravando o mundo de T.I sempre buscando
+                            conhecer novas linguagens de programação, estudando inglês, buscando conhecimento e
                             oportunidades profissionais!
                         </p>
                     </div>
