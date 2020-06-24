@@ -96,13 +96,13 @@
                         <img class="card-img-top"
                             data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail"
                             alt="Miniatura [100% x225]" style="height: 225px; width: 100%; display: block;"
-                            src="Testes.png" data-holder-rendered="true">
+                            src="consertos.png" data-holder-rendered="true">
                         <div class="card-body">
-                            <p class="card-text text-center">Em Breve curso de Testes</p>
+                            <p class="card-text text-center">ASSISTENCIA TECNICA</p>
                             <ul>
-                                <li>Conceito de Testes</li>
-                                <li>TDD com JavaScript</li>
-                                <li>Indisponivel</li>
+                                <li>Controle de serviços</li>
+                                <li>Desenvendo em php, js, html,css...</li>
+                                <li>Ainda em construção</li>
 
                             </ul>
                             <div class="d-flex justify-content-between align-items-center">
@@ -120,13 +120,13 @@
                         <img class="card-img-top"
                             data-src="holder.js/100px225?theme=thumb&amp;bg=55595c&amp;fg=eceeef&amp;text=Thumbnail"
                             alt="Miniatura [100% x225]" style="height: 225px; width: 100%; display: block;"
-                            src="CICD.jpg" data-holder-rendered="true">
+                            src="cartao.png" data-holder-rendered="true">
                         <div class="card-body">
-                            <p class="card-text text-center">Embreve curso de CI/CD</p>
+                            <p class="card-text text-center">SITE/Portifólio de Cartões</p>
                             <ul>
-                                <li>CI</li>
-                                <li>CD</li>
-                                <li>Indisponivel</li>
+                                <li>Cartões de presente artesanais</li>
+                                <li>Projeto voluntario</li>
+                                <li>Ainda em desenvolvimento</li>
 
                             </ul>
                             <div class="d-flex justify-content-between align-items-center">
